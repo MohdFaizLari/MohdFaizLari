@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning frontend developement.
 - 💞️ I’m looking to collaborate on frontend projects.
 - 📫 You can reach me at mohdfaizlari@gmail.com
-- ⚡ Fun fact: JS is my first programming language to learn.
+- ⚡ Notes: JS is my first programming language to learn.
 
 <!---
 MohdFaizLari/MohdFaizLari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
